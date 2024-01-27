@@ -6,4 +6,4 @@
 3 understand how to use machine learing algorithms 
 ### Here is a link to an interesting article about Data for Good (https://www.tableau.com/foundation)
 ### Here is a picture 
-!(https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg)
+(https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg)
