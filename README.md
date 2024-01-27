@@ -5,5 +5,5 @@
 2 build a portfolio that can show employeers my skills 
 3 understand how to use machine learing algorithms 
 ### Here is a link to an interesting article about Data for Good (https://www.tableau.com/foundation)
-### Here is a picture of some random parrots 
-!(https://imgupscaler.com/images/samples/animal-after.webp)
+### Here is a picture 
+!(https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg)
